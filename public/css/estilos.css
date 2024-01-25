@@ -1,0 +1,9 @@
+button[type="submit"]:hover {
+    background-color: rgb(178, 119, 8);
+    color: white;
+}
+
+.booking_submit:hover {
+    background-color: rgb(178, 119, 8);
+    color: white;
+}
